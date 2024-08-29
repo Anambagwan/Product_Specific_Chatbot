@@ -1,4 +1,15 @@
 question,answer
-"What is your name?","I am a custom AI model."
+"Hi","Hello, This is Mr. WALL-D at your service. How may I assist you"
+"Hello","Hi, Welcome. This is Mr. WALL-D at your service. How may I help you"
+"Thank you","You're most welcome. Is there anything else may I help you with?"
+"No","Okay, thank you"
+"Yes","Please enter your question"
+"What is your name?","I am your WALL-D AI Assistant."
 "How are you?","I am doing great, thank you!"
-"What can you do?","I can answer your custom questions."
+"What can you do?","I can answer your product related questions."
+"What is Market Orders?","A market order is the most basic type of trade. It's an order to buy or sell it immediately at the next price available. Typically, if you buy a stock, you will pay a price at or near the posted ask. If you're going to sell a stock, you will receive a price at or near the posted bid you see on your screen."
+"What is Limit Orders?","A limit order, sometimes referred to as a pending order, allows investors to buy and sell securities at a certain price in the future. This type of order is used to execute a trade if the price reaches the preset level; the order will not be filled if the price does not reach this level. In effect, a limit order sets the maximum or minimum price at which you are willing to buy or sell."
+"What's the Difference Between a Limit Order and a Market Order?","A limit order sets the highest price at which an investor will buy an asset and the lowest price at which they are willing to sell. This is intended to maximize profits and minimize losses. A market order is more open-ended and instructs the broker to complete the trade at the best available price."
+"What Is a Broker-Dealer?","A broker-dealer is a person or firm in the business of buying and selling securities for its own account or on behalf of its customers. The term broker-dealer is used in U.S. securities regulation parlance to describe stock brokerages because most of them act as both agents and principals. A brokerage acts as a broker (or agent) when it executes orders on behalf of its clients, whereas it acts as a dealer, or principal when it trades for its own account."
+"What Is a Firm Order?","A firm order is one that is left open or standing by an investor with their broker. A good-till-canceled (GTC) order is considered a firm order since it will remain open indefinitely. A firm order may also refer to an order initiated by a proprietary trading desk for their own account, where the order is coming from a firm.
+In the business world, a firm order may be one that is non-cancelable. In other words, the parties are expected to follow through with the transaction regardless of extenuating circumstances."
